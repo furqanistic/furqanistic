@@ -4,7 +4,7 @@
 
 💼 So if you're looking for a FullStack developer who can help you achieve your goals and solve the pain points of software development, look no further. Let's work together to build a long-term relationship and create exceptional outcomes for your business.
 
-📃 Protfolio : www.furqan.cc
+
 
 👨‍💻 Technical Skills:
 <h3 align="left">Languages and Tools:</h3>
